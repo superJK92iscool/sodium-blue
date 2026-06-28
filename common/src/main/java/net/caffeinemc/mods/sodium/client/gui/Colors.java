@@ -7,7 +7,7 @@ import net.minecraft.util.Mth;
 public class Colors {
     public static final int THEME = 0xFF000899;
     public static final int THEME_LIGHTER = 0xFF0022FF;
-    public static final int THEME_DARKER = 0xFF000754;
+    public static final int THEME_DARKER = 0xFF00049E;
     public static final int FOREGROUND = 0xFFFFFFFF;
     public static final int FOREGROUND_DISABLED = 0xFFAAAAAA;
 
