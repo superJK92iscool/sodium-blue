@@ -5,9 +5,9 @@ import net.minecraft.util.Mth;
 
 // colors in ARGB format
 public class Colors {
-    public static final int THEME = 0xFF94E4D3;
-    public static final int THEME_LIGHTER = 0xFFCCFDEE;
-    public static final int THEME_DARKER = 0xFF7A9E9E;
+    public static final int THEME = 0xFF000899;
+    public static final int THEME_LIGHTER = 0xFF000899;
+    public static final int THEME_DARKER = 0xFF000899;
     public static final int FOREGROUND = 0xFFFFFFFF;
     public static final int FOREGROUND_DISABLED = 0xFFAAAAAA;
 
