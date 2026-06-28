@@ -2,8 +2,8 @@
   "schemaVersion" : 1,
   "id" : "sodium",
   "version" : "${version}",
-  "name" : "Sodium",
-  "description" : "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
+  "name" : "Sodium Blue",
+  "description" : "Sodium Blue is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
   "authors" : [
     {
       "name" : "JellySquid (jellysquid3)",
