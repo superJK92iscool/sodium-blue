@@ -6,7 +6,7 @@ license = "Polyform-Shield-1.0.0"
 modId = "sodium"
 
 version = "${version}"
-displayName = "Sodium"
+displayName = "Sodium Blue"
 
 logoFile = "sodium-icon.png" #optional
 
@@ -15,7 +15,7 @@ authors = "JellySquid (jellysquid3), IMS212"
 credits = "bytzo, PepperCode1, FlashyReese, altrisi, Grayray75, Madis0, Johni0702, comp500, coderbot16, Moulberry, MCRcortex, Altirix, embeddedt, pajicadvance, Kroppeb, douira, burgerindividual, TwistedZero, Leo40Git, haykam821, muzikbike"
 
 description = '''
-Sodium is a powerful rendering engine for Minecraft which improves frame rates and reduces lag spikes.
+Sodium Blue is a powerful rendering engine for Minecraft which improves frame rates and reduces lag spikes.
 '''
 
 provides = ["indium"]
@@ -40,7 +40,7 @@ side = "CLIENT"
 [[dependencies.sodium]]
 modId = "embeddium"
 type = "incompatible"
-reason = "Sodium and Embeddium cannot be used together. Please remove Embeddium."
+reason = "Sodium Blue and Embeddium cannot be used together. Please remove Embeddium."
 versionRange = "[0.0.1,)"
 ordering = "NONE"
 side = "CLIENT"
